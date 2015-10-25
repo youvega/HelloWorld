@@ -1,0 +1,8 @@
+E:\MyProc\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\MyProc\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\MyProc\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.FormHelloWorld.resources
+E:\MyProc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\MyProc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+E:\MyProc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\MyProc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
